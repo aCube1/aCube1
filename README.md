@@ -4,4 +4,3 @@
 
 - 📫 How to reach me: [Discord Contact] .aCube#3083
 - ⚡ Fun fact: **I Love Taida And Death-chan**
-- ⭐ Favorite Languages: Rust C Lua
