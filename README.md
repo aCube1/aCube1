@@ -1,6 +1,14 @@
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aCube1&layout=compact&langs_count=3&hide=html&theme=tokyonight" alt="aCube1 :: Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=aCube1&show_icons=true&theme=tokyonight&show_private=true" alt="aCube1 :: Profile Stats" /> |
-| --: | --- |
-
 - 📫 How to reach me:
-  * **Discord Contact**: .aCube#3083
+  * **Discord User**: .aCube#3083
 - ⚡ Fun fact: **I Love Taida And Death-chan**
+
+## <p align="center"> My Stats </p>
+<p align="center">
+ <img align="center" src="https://gpvc.arturio.dev/aCube1">
+</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aCube1&theme=gotham&show_icons=true&count_private=true&include_all_commits=true" height="150" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aCube1&theme=gotham&layout=compact&include_all_commits=true" height="150"/>
+</a>
