@@ -1,5 +1,6 @@
 - 📫 How to reach me:
-  * **Discord User**: .aCube#3083
+  * **Discord Contact**: .aCube#3083
+  * **Telegram Contact**: @aCube_1
 - ⚡ Fun fact: **I Love Taida And Death-chan**
 
 ## <p align="center"> My Stats </p>
