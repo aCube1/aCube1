@@ -1,7 +1,7 @@
 - 📫 How to reach me:
   * **Discord Contact**: .aCube#3083
   * **Telegram Contact**: @aCube_1
-- ⚡ Fun fact: **I Love Taida And Death-chan**
+- ⚡ Thought of the Year: **The world is strange, but you can be more!**
 
 ## <p align="center"> My Stats </p>
 <p align="center">
