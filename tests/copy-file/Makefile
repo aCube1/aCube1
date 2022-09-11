@@ -1,0 +1,20 @@
+TARGET_BIN := main
+
+SRC := main.c
+OBJ := main.o
+FLAGS := -Wall -Wextra -Wpedantic
+
+$(TARGET_BIN): $(OBJ)
+	$(CC) $< -o $@
+
+$(OBJ): $(SRC)
+	$(CC) -c $< -o $@
+
+
+.PHONY: all clean
+all:
+	$(TARGET_BIN)
+
+clean:
+	rm $(OBJ)
+	rm $(TARGET_BIN)
