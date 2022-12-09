@@ -27,8 +27,8 @@
 
 ## Do you want to reach me?
 <div>
-	<a href="https://t.me/aCubeOne" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"></a>
-	<a href="https://www.linkedin.com/in/acube-567327253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-	<a href="https://www.youtube.com/c/aCube_1" target="_blank"><img src="https://img.shields.io/badge/-Youtube-FF1212?style=for-the-badge&logo=youtube&logoColor=black"></a>
-	<a href="mailto:player559001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"></a>
+	<a target="_blank" href="https://t.me/aCubeOne"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"></a>
+	<a target="_blank" href="https://www.linkedin.com/in/acube-567327253/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+	<a target="_blank" href="https://www.youtube.com/c/aCube_1"><img src="https://img.shields.io/badge/-Youtube-FF1212?style=for-the-badge&logo=youtube&logoColor=black"></a>
+	<a target="_blank" href="mailto:player559001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </div>
