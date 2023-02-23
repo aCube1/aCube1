@@ -21,8 +21,8 @@
 ---
 
 <a href="https://github.com/aCube1">
-   <img height="180em" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api?username=aCube1&theme=gotham&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=aCube1&theme=gotham&layout=compact&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-acube.vercel.app/api?username=aCube1&theme=gotham&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=aCube1&theme=gotham&layout=compact&include_all_commits=true"/>
 </a>
 
 ## Do you want to reach me?
