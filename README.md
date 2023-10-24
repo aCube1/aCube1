@@ -1,9 +1,12 @@
 ## Hello humans! I'm aCube, a Game Developer.
 
-> <h4>I'm a Brazilian Programmer, I like game development and lowlevel programming. I've been studying programming since 2018. I started with Lua, but now my favorite language is C. </h4>
-> <h4>I always try to write good quality, optimized and reusable code.</h4>
-> <h4>I love Linux, my currently distribution is ArchLinux.</h4>
-> <h4>This world is strange but I like it.</h4>
+> **I'm a Brazilian Programmer, I like game development and lowlevel programming. I've been studying programming since 2018. I started with Lua, but now my favorite language is C.**
+> 
+> **I always try to write good quality, optimized and reusable code.**
+> 
+> **I love Linux, my currently distribution is ArchLinux.**
+> 
+> **This world is strange but I like it.**
 
 <div align="center" style="display: inline_block">
 	<img alt="Linux" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
