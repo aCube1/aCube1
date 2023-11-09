@@ -22,9 +22,9 @@
 
 ---
 <div align="center">
-<a href="https://github.com/aCube1">
+<a>
    <img height="180em" src="https://github-readme-stats-acube.vercel.app/api?username=aCube1&theme=gotham&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=aCube1&theme=gotham&layout=compact&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=aCube1&theme=gotham&layout=donut&include_all_commits=true"/>
 </a>
 
 ![Snake animation](https://github.com/aCube1/aCube1/blob/output/github-contribution-grid-snake-dark.svg)
