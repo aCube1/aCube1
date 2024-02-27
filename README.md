@@ -2,8 +2,7 @@
 
 <!-- Resume -->
 <p align = "center"><em>
-I'm a Brazilian Programmer, that likes game development, low level programming and anything that seems interesting. <br> <br>
-This world is strange but I like it.
+Hi! I'm a brazillian programmer. I've been involved with game development since 2020, I started with Lua in a Fantasy-Computer called TIC-80. I like game development and low-level coding, my interests are C and C++, as you see on my profile. I'm not open to web development (I really hate it).
 </em></p>
 <!-- Profile Views Counter -->
 <div align = "center">
