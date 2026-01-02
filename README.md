@@ -2,7 +2,7 @@
 
 <!-- Resume -->
 <p align = "center"><em>
-Hi! I'm a brazillian programmer. I've been involved with game development since 2020, I started with Lua in a Fantasy-Computer called TIC-80. I like game development and low-level coding, my interests are C and C++, as you see on my profile. I'm not open to web development (I really hate it).
+Yo! I'm just another brazillian programmer. I've been involved with game development since 2020, starting with Lua in a Fantasy-Computer called TIC-80, then later, changing my interests to embedded and hardware. My favorite language is C, as you can see on my profile. Anyways, you're welcome to contact me, ask anything, I love to teach everything I now.
 </em></p>
 <!-- Profile Views Counter -->
 <div align = "center">
