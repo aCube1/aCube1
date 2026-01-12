@@ -2,7 +2,7 @@
 
 <!-- Resume -->
 <p align = "center"><em>
-Yo! I'm just another brazillian programmer. I've been involved with game development since 2020, starting with Lua in a Fantasy-Computer called TIC-80, then later, changing my interests to embedded and hardware. My favorite language is C, as you can see on my profile. Anyways, you're welcome to contact me, ask anything, I love to teach everything I now.
+Yo! I'm just another brazillian programmer. I've been involved with game development since 2020, starting with Lua in a Fantasy-Computer called TIC-80, then later, changing my interests to embedded and hardware. My favorite language is C, as you can see on my profile. Anyways, you're welcome to contact me, ask anything, I love to teach everything I know.
 </em></p>
 <!-- Profile Views Counter -->
 <div align = "center">
