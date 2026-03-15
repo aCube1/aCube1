@@ -26,11 +26,11 @@ Yo! I'm just another brazillian programmer. I've been involved with game develop
 <div align="center">
 	<h2></h2>
 	<!-- Snake commits -->
-	<img src="https://github.com/aCube1/aCube1/blob/output/github-contribution-grid-snake-dark.svg"/>
+	<img src="https://github.com/acubeone/acubeone/blob/output/github-contribution-grid-snake-dark.svg"/>
 	<!-- Stats -->
 	<a>
-		<img alt="aCube's Github Stats" src="https://github-readme-stats-acube.vercel.app/api?username=aCube1&theme=transparent&hide_border=true&line_height=22&show_icons=true&count_private=true&include_all_commits=true"/>
-		<img alt="Top Languages" src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=aCube1&theme=transparent&hide_border=true&layout=donut&card_width=300&langs_count=6&include_all_commits=true"/>
+		<img alt="aCube's Github Stats" src="https://github-readme-stats-acube.vercel.app/api?username=acubeone&theme=transparent&hide_border=true&line_height=22&show_icons=true&count_private=true&include_all_commits=true"/>
+		<img alt="Top Languages" src="https://github-readme-stats-acube.vercel.app/api/top-langs/?username=acubeone&theme=transparent&hide_border=true&layout=donut&card_width=300&langs_count=6&include_all_commits=true"/>
 	</a>
 </div>
 
